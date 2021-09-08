@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AviaTimes:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a56f707f-317f-4711-bf5b-811fea042c02" name="Default Changelist" comment="calculate">
+      <change afterPath="$PROJECT_DIR$/../SpringDemo/springDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../company-employee-spring/Java2021Springcompany-employee-springlog/spring.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../company-employee-spring/company-employee-spring.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../company-employee-spring/logs/spring-boot-logger.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../company-employee-spring/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/src/main/java/com/example/number/NumberApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/src/main/java/com/example/number/controller/NumberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/src/main/resources/templates/next.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/src/main/resources/templates/random.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/src/test/java/com/example/number/NumberApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../company-employee-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../company-employee-spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../company-employee-spring/src/main/java/com/example/companyemployeespring/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../company-employee-spring/src/main/java/com/example/companyemployeespring/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../company-employee-spring/src/main/java/com/example/companyemployeespring/controler/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../company-employee-spring/src/main/java/com/example/companyemployeespring/controler/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../company-employee-spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../company-employee-spring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../company-employee-spring/src/main/resources/templates/empl.html" beforeDir="false" afterPath="$PROJECT_DIR$/../company-employee-spring/src/main/resources/templates/empl.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xqYhwAbJ5StXpH8ebCVLiWi6At" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31260228" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java2021\Spring\AviaTimes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java2021\Spring\AviaTimes\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Avia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Avia" />
+      <module name="AviaTimes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Avia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a56f707f-317f-4711-bf5b-811fea042c02" name="Default Changelist" comment="" />
+      <created>1631084209634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631084209634</updated>
+      <workItem from="1631084211086" duration="10530000" />
+      <workItem from="1631136214486" duration="312000" />
+      <workItem from="1631136696557" duration="126000" />
+      <workItem from="1631136838838" duration="867000" />
+    </task>
+    <task id="LOCAL-00001" summary="calculate">
+      <created>1631137275188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631137275188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calculate" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate" />
+  </component>
+</project>
